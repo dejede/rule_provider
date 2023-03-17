@@ -1,5 +1,5 @@
 payload:
-#AppMytelkomsel
+  #AppMytelkomsel
   - DOMAIN-SUFFIX,telkomsel.com
   - DOMAIN-SUFFIX,my.telkomsel.com
   - DOMAIN-KEYWORD,telkomsel.com
