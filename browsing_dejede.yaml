@@ -75,6 +75,7 @@ payload:
   - DST-PORT,8802
   - DST-PORT,3478
   - DST-PORT,3479
+  
  
   # > AREA KHUSUS XL AKRAB
   # > GOOGLE MEET, CLASSROOM, HANGOUTS, MAPS
@@ -101,10 +102,12 @@ payload:
   - DOMAIN-SUFFIX,maps.gstatic.com
   - DOMAIN-SUFFIX,maps.google.com
   - DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+  
   # CLASSROOM
   - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,clients3.google.com
   - DOMAIN-SUFFIX,notifications-pa.googleapis.com
+  
   # PORTS
   - DST-PORT,19302
   - DST-PORT,19305
@@ -116,23 +119,84 @@ payload:
   - DOMAIN-SUFFIX,teams.microsoft.com
   
   # > Campuran
-  # - DOMAIN-KEYWORD,zoom.us
-  # - DOMAIN-KEYWORD,meet.google.com
-  # - DOMAIN-KEYWORD,ruangguru.com
-  # - DOMAIN-KEYWORD,zenius.com
-  # - DOMAIN-KEYWORD,office.com
-  # - DOMAIN-KEYWORD,trouter.io
-  # - DOMAIN-KEYWORD,skype.com
-  # - DOMAIN-KEYWORD,skype.net
-  # - DOMAIN-KEYWORD,cortana.ai
-  # - DOMAIN-KEYWORD,customspeech.ai
-  # - DOMAIN-KEYWORD,bing.com
-  # - DOMAIN-KEYWORD,microsoft.com
-  # - DOMAIN-KEYWORD,hivestreaming.com
-  # - DOMAIN-KEYWORD,kollective.app
-  # - DOMAIN-KEYWORD,kollectivecd.com
-  # - DOMAIN-KEYWORD,office365.us
-  # - DOMAIN-KEYWORD,live.com
-  # - DOMAIN-KEYWORD,svc.ms
-  # - DOMAIN-KEYWORD,office.com
-  # - DOMAIN-KEYWORD,officeppe.com
+  - DOMAIN-KEYWORD,zoom.us
+  - DOMAIN-KEYWORD,meet.google.com
+  - DOMAIN-KEYWORD,ruangguru.com
+  - DOMAIN-KEYWORD,zenius.com
+  - DOMAIN-KEYWORD,office.com
+  - DOMAIN-KEYWORD,trouter.io
+  - DOMAIN-KEYWORD,skype.com
+  - DOMAIN-KEYWORD,skype.net
+  - DOMAIN-KEYWORD,cortana.ai
+  - DOMAIN-KEYWORD,customspeech.ai
+  - DOMAIN-KEYWORD,bing.com
+  - DOMAIN-KEYWORD,microsoft.com
+  - DOMAIN-KEYWORD,hivestreaming.com
+  - DOMAIN-KEYWORD,kollective.app
+  - DOMAIN-KEYWORD,kollectivecd.com
+  - DOMAIN-KEYWORD,office365.us
+  - DOMAIN-KEYWORD,live.com
+  - DOMAIN-KEYWORD,svc.ms
+  - DOMAIN-KEYWORD,office.com
+  - DOMAIN-KEYWORD,officeppe.com
+
+  # &gt; MARKET PLACE
+  - DOMAIN-SUFFIX,tokopedia.com
+  - DOMAIN-SUFFIX,shopee.co.id
+  - DOMAIN-SUFFIX,shopeemobile.com
+  - DOMAIN-SUFFIX,bukalapak.com
+  - DOMAIN-SUFFIX,lazada.co.id
+  - DOMAIN-SUFFIX,blibli.com
+  - DOMAIN-SUFFIX,orami.co.id
+  - DOMAIN-SUFFIX,ralali.com
+  - DOMAIN-SUFFIX,bhinneka.com
+  - DOMAIN-SUFFIX,jd.id
+  - DOMAIN-SUFFIX,zalora.co.id
+  - DOMAIN-KEYWORD,tokopedia
+  - DOMAIN-KEYWORD,shopee
+  - DOMAIN-KEYWORD,bukalapak
+  - DOMAIN-KEYWORD,lazada
+  - DOMAIN-KEYWORD,blibli
+  - DOMAIN-KEYWORD,orami
+  - DOMAIN-KEYWORD,ralali
+  - DOMAIN-KEYWORD,bhinneka
+  - DOMAIN-KEYWORD,zalora
+  
+  # E-Wallet / Dompet Digital
+  - DOMAIN-SUFFIX,gojek.com
+  - DOMAIN-SUFFIX,gobiz.co.id
+  - DOMAIN-SUFFIX,ovo.id
+  - DOMAIN-SUFFIX,dana.id
+  - DOMAIN-SUFFIX,linkaja.id
+  - DOMAIN-SUFFIX,octoclicks.co.id
+  - DOMAIN-SUFFIX,i-saku.com
+  - DOMAIN-SUFFIX,doku.com
+  - DOMAIN-SUFFIX,shopeepay.co.id
+  - DOMAIN-SUFFIX,grab.com
+  - DOMAIN-SUFFIX,grabtaxi.com
+  - DOMAIN-KEYWORD,gojek
+  - DOMAIN-KEYWORD,gobiz
+  - DOMAIN-KEYWORD,ovo
+  - DOMAIN-KEYWORD,dana
+  - DOMAIN-KEYWORD,linkaja
+  - DOMAIN-KEYWORD,octoclicks
+  - DOMAIN-KEYWORD,i-saku
+  - DOMAIN-KEYWORD,doku
+  - DOMAIN-KEYWORD,shopeepay
+  - DOMAIN-KEYWORD,grab
+  - DOMAIN-KEYWORD,grabtaxi
+  
+  # &gt; LIST Domain tLD Indo & GEOIP INDO
+  - DOMAIN-KEYWORD,.id
+  - DOMAIN-KEYWORD,co.id
+  - DOMAIN-KEYWORD,ac.id
+  - DOMAIN-KEYWORD,or.id
+  - DOMAIN-KEYWORD,go.id
+  - DOMAIN-KEYWORD,my.id
+  - DOMAIN-KEYWORD,web.id
+  - DOMAIN-KEYWORD,biz.id
+  - DOMAIN-KEYWORD,net.id
+  - DOMAIN-KEYWORD,mil.id
+  - DOMAIN-KEYWORD,sch.id
+  - DOMAIN-KEYWORD,desa.id
+  - DOMAIN-KEYWORD,ponpes.id
