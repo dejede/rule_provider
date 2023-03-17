@@ -3,6 +3,10 @@ payload:
   - DOMAIN-KEYWORD,whatsapp.com
   - DOMAIN-KEYWORD,whatsapp.net
   - DOMAIN-SUFFIX,g.whatsapp.net
+  - DOMAIN-SUFFIX,m.me
+  - DOMAIN-SUFFIX,oculus.com
+  - DOMAIN-SUFFIX,oculuscdn.com
+  - DOMAIN-SUFFIX,rocksdb.org
   - DOMAIN-SUFFIX,web.whatsapp.com
   - DOMAIN-SUFFIX,scontent.whatsapp.net
   - DOMAIN-SUFFIX,whatsapp.com
@@ -76,7 +80,6 @@ payload:
   - DST-PORT,3478
   - DST-PORT,3479
  
-  # > AREA KHUSUS XL AKRAB
   # > GOOGLE MEET, CLASSROOM, HANGOUTS, MAPS
   - DOMAIN-SUFFIX,meetings.googleapis.com
   - DOMAIN-SUFFIX,classroom.google.com
