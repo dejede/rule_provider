@@ -211,3 +211,8 @@ payload:
 - DOMAIN-KEYWORD,sch.id
 - DOMAIN-KEYWORD,desa.id
 - DOMAIN-KEYWORD,ponpes.id
+# > Pornhub
+- DOMAIN-SUFFIX,phncdn.com
+- DOMAIN-SUFFIX,phprcdn.com
+- DOMAIN-SUFFIX,pornhub.com
+- DOMAIN-SUFFIX,pornhubpremium.com
