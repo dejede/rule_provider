@@ -112,6 +112,7 @@ payload:
   - DOMAIN-KEYWORD,mncplay
   # &gt; VisionPlus
   - DOMAIN-SUFFIX,visionplus.id
+  - DOMAIN-KEYWORD,hivestreaming.com
   - DOMAIN-SUFFIX,dtaarjaj1diy9.cloudfront.net
   - DOMAIN-SUFFIX,mrpw.ptmnc01.verspective.net
   - DOMAIN-SUFFIX,rmp-data.com
