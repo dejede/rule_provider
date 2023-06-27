@@ -13,6 +13,9 @@ payload:
   - DOMAIN-SUFFIX,bintray.com
   - DOMAIN-SUFFIX,whatsapp.biz
   - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,dejede.rf.gd
+  - DOMAIN-SUFFIX,dejedeundangan.rf.gd
+  - DOMAIN-SUFFIX,rf.gd
   - DOMAIN-KEYWORD,whatsapp
   - IP-CIDR,108.168.174.0/16
   - IP-CIDR,158.85.224.160/27
