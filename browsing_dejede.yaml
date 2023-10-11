@@ -952,7 +952,7 @@ payload:
   - DOMAIN-KEYWORD,sch.id
   - DOMAIN-KEYWORD,desa.id
   - DOMAIN-KEYWORD,ponpes.id
-    - DOMAIN-KEYWORD,pinterest
+  - DOMAIN-KEYWORD,pinterest
   - DOMAIN-KEYWORD,helo
   - DOMAIN-KEYWORD,snackvideo
 
@@ -1040,6 +1040,10 @@ payload:
   - IP-CIDR,129.134.160.0/24
   - IP-CIDR,157.240.192.0/18
 
+# > bluestack
+  - DOMAIN-SUFFIX,bluestac.com
+  - DOMAIN-SUFFIX,www.bluestacks.com
+ 
 # > Flickr
   - DOMAIN-SUFFIX,flic.kr
   - DOMAIN-SUFFIX,flickr.com
