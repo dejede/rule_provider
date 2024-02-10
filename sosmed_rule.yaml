@@ -1,5 +1,5 @@
 payload:
- # browsing_dejede_2014
+ # sosmed_dejede_2014
  # Facebook Rule
   - DOMAIN-SUFFIX,fbcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,aboutfacebook.com
