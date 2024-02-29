@@ -1,5 +1,5 @@
 payload:
- # sosmed_dejede_2014
+ # whatsapp_dejede_2014
  # whatsapp Rule
   - DOMAIN-KEYWORD,whatsapp.com
   - DOMAIN-KEYWORD,whatsapp.net
